@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="https://limelbe.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://careful-balaur-ff7.notion.site/3103262acd03445ab25d88aa7233c99c"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/sohilight@gmail.com-000000?style=flat&logo=Gmail&logoColor=white"/>
 </div>
 <br />
