@@ -3,7 +3,7 @@
 </div> -->
 <div>
   <a href="https://limelbe.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-  <a href="https://hihisohi.notion.site/SOHi-a7b8b7683de04f6aad0f483713691b70"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <a href="mailto:sohilight@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white"/>
 </div>
 <h3>👩‍💻 SOHEE JUNG</h3>
