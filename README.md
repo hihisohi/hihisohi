@@ -4,7 +4,7 @@
 <div>
   <a href="https://limelbe.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Tistory&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white"/>
+<!--   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white"/> -->
 </div>
 <h3>👩‍💻 SOHEE JUNG</h3>
 <ul>
