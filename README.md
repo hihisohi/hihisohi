@@ -9,8 +9,7 @@
 <h3>👩‍💻 SOHEE JUNG</h3>
 <ul>
   <li>Frontend Developer 🐣</li>
-  <li>I'm interested in JavaScript, TypeScript and ReactJS.</li>
-  <li>Also, i'm interested in developing apps using React native or Flutter.
+  <li>I'm interested in JavaScript, ReactJS and NextJS.</li>
 </ul>
 <br />
 
@@ -37,7 +36,7 @@
 
 <h3>😎 Experiences</h3>
 <ul>
-  <li>엘리스 AI트랙 5기 (2022.02 ~ 2022.12)</li>
+  <li>엘리스 AI트랙 5기 (2022.06 ~ 2022.11)</li>
 </ul>
 <br />
   
