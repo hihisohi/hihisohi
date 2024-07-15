@@ -34,6 +34,7 @@
 <br />
 <br />
 
+<!--
 <h3>😎 Experiences</h3>
 <ul>
   <li>엘리스 AI트랙 5기 (2022.06 ~ 2022.11)</li>
@@ -48,7 +49,7 @@
 <br />
 <br /> 
   
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=hihisohi&show_icons=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=hihisohi&show_icons=true">
 <br /> -->
   
 <div align="center">💙💛💚💜</div>
